@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Ryan-TheInvoker
-- 👀 I’m interested in learning Julia
-- 🌱 I’m currently learning algorithms and data structures in java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 👀 I’m interested in learning Julia and becoming an expert in C.
+- 🌱 I’m currently learning web development and methods in computational physics such as random walks and markov chains.
+- 📫 How to reach me email: 24695394@sun.ac.za
 
 <!---
 Ryan-TheInvoker/Ryan-TheInvoker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
